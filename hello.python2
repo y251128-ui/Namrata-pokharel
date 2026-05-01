@@ -1,0 +1,4 @@
+Name="Namrata Pokharel"
+age="23"
+print("Hello My name is",Name)
+print("i am",age,)
