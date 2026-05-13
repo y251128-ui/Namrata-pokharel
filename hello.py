@@ -1,2 +1,2 @@
-print("Hello I am NAMRATA")
+print("今日は5月13日です")
 
